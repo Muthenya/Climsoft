@@ -1,5 +1,5 @@
 ﻿Public Class ucrElementSelector
-    Private strElementTableName As String = "obselement"
+    Private strElementTableName As String = "obselements"
     Private strElementName As String = "elementName"
     Private strElementId As String = "elementId"
     Private strIDsAndElements As String = "ids_elements"

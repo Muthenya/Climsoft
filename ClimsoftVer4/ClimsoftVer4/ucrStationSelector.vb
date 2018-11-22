@@ -1,5 +1,5 @@
 ﻿Public Class ucrStationSelector
-    Private strStationsTableName As String = "station"
+    Private strStationsTableName As String = "stations"
     Private strStationName As String = "stationName"
     Private strStationId As String = "stationId"
     Private strIDsAndStations As String = "ids_stations"
